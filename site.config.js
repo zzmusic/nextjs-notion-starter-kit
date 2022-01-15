@@ -12,9 +12,9 @@ module.exports = {
   author: 'April Wu',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'April Wu - Castalia',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Credo ut intelligam',
+  socialImageTitle: 'April of Castalia',
+  socialImageSubtitle: 'Credo ut intelligam',
 
   // social usernames (optional)
   Instagram: 'thechildofthestars',

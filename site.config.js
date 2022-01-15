@@ -18,8 +18,8 @@ module.exports = {
 
   // social usernames (optional)
   Instagram: 'thechildofthestars',
-  Facebook: 'April Wu',
-  linkedin: 'April Wu',
+  Facebook: '100008396473378',
+  linkedin: 'april-wu-61403a21b',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
